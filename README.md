@@ -1,5 +1,5 @@
-  manage_wise
-  # This is a Clone project of Manage WIse Website
+  # manage_wise
+  This is a Clone project of Manage Wise Website
 
   Note: Please ensure you have installed <code><a href="https://nodejs.org/en/download/">nodejs</a></code>
 
